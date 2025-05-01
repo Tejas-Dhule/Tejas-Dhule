@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejas-Dhule
 - 👀 I’m interested in Coding and Stock Market
-- 🌱 I’m currently learning Python, Web Devlopment, Data Analysis and penetration testing.
+- 🌱 I’m currently learning Python, Web Devlopment, Data Analysis and Penetration Testing.
 - 💞️ I’m looking to collaborate on Development Projects
 
 
